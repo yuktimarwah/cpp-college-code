@@ -14,3 +14,6 @@ int main(){
     }
     cout<<"maximum element of array is:"<<max_el<<endl;
 }
+
+
+
